@@ -1,0 +1,32 @@
+.navbar{
+    height: 60px;
+    background-color: teal;
+    margin-bottom: 30px;
+}
+.hero{
+    height: 250px;
+    background-color: teal;
+    margin-bottom: 30px;
+}
+.box{
+    height: 250px;
+    width: 350px;
+    background-color: teal;
+    margin-bottom: 30px;
+    
+}
+#container{
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    height: 90px;
+    background-color: teal;
+    margin-bottom: 20px;
+}
+.word{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+   
+}
